@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UVAndroid20222</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_login">No me has tocado</string>
+</resources>
